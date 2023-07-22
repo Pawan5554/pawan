@@ -7,8 +7,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Pawan5554&label=Profile%20views&color=0e75b6&style=flat" alt="Pawan5554" /> </p>
 
-- 🔭 I’m currently working on [Remedez - Find Meds Near You](https://play.google.com/store/apps/details?id=com.team.remedez)
-
 - 🌱 I’m currently learning **Machine Learning**
 
 - 💬 Ask me about **Android,Java**
