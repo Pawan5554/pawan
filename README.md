@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **riteshgupta2108@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://firebasestorage.googleapis.com/v0/b/socialx-60ba0.appspot.com/o/Harsh's%20Resume.pdf?alt=media&token=77114198-c2ea-4720-ac3e-56e58054c898)
+- 📄 Know about my experiences [Resume](https://firebasestorage.googleapis.com/v0/b/remedez-e64f3.appspot.com/o/Ali_%C3%96zen_s_Resume.pdf?alt=media&token=72d6dc45-ed47-45c0-a48e-575f270faa7f)
 
 - ⚡ Fun fact **I am Funny**
 
