@@ -25,7 +25,7 @@
   
 <a href="https://www.hackerrank.com/Pawan_21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Pawan_21" height="30" width="40" /></a>
 <a href="https://leetcode.com/Pawan_5554" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Pawan_5554" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/pawan_2108" target="blank"><img align="center" src="https://pbs.twimg.com/profile_images/1477930785537605633/ROTVNVz7_400x400.jpg" alt="pawan_2108" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/pawan_2108" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/11960354?v=4" alt="pawan_2108" height="30" width="40" /></a>
 
 </p>
 
