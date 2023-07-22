@@ -5,7 +5,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshmaaurya&label=Profile%20views&color=0e75b6&style=flat" alt="harshmaaurya" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Pawan5554&label=Profile%20views&color=0e75b6&style=flat" alt="Pawan5554" /> </p>
 
 - 🔭 I’m currently working on [Remedez - Find Meds Near You](https://play.google.com/store/apps/details?id=com.team.remedez)
 
