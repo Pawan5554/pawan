@@ -9,11 +9,11 @@
 
 - 🔭 I’m currently working on [Remedez - Find Meds Near You](https://play.google.com/store/apps/details?id=com.team.remedez)
 
-- 🌱 I’m currently learning **Kotlin**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 💬 Ask me about **Android,Java**
 
-- 📫 How to reach me **harshmaurya88969@gmail.com**
+- 📫 How to reach me **riteshgupta2108@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://firebasestorage.googleapis.com/v0/b/socialx-60ba0.appspot.com/o/Harsh's%20Resume.pdf?alt=media&token=77114198-c2ea-4720-ac3e-56e58054c898)
 
@@ -22,8 +22,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/harshmaaurya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshmaaurya" height="30" width="40" /></a>
-<a href="https://instagram.com/harshmaaurya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harshmaaurya" height="30" width="40" /></a>
+  
 <a href="https://www.hackerrank.com/2001641550014_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="2001641550014_" height="30" width="40" /></a>
+
 <a href="https://www.leetcode.com/harshmaaurya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="harshmaaurya" height="30" width="40" /></a>
 </p>
 
