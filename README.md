@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **riteshgupta2108@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://firebasestorage.googleapis.com/v0/b/remedez-e64f3.appspot.com/o/Ali_%C3%96zen_s_Resume.pdf?alt=media&token=72d6dc45-ed47-45c0-a48e-575f270faa7f)
+- 📄 Know about my experiences [Resume](https://firebasestorage.googleapis.com/v0/b/remedez-e64f3.appspot.com/o/Pawan_CSE.pdf?alt=media&token=bc48b36b-a5dd-4947-a30a-cab67247edb4&_gl=1*jy4b21*_ga*MjAxNjI5Mjc2OC4xNjkyMjg1NzIz*_ga_CW55HF8NVT*MTY5NzU2ODU5Ny4xMi4xLjE2OTc1Njg2NTguNjAuMC4w)
 
 - ⚡ Fun fact **I am Funny**
 
