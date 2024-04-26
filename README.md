@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 💬 Ask me about **Android,Java**
+- 💬 Ask me about **ReactJS, Talwind, NodeJs, Express Js,**
 
 - 📫 How to reach me **riteshgupta2108@gmail.com**
 
